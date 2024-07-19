@@ -11,7 +11,7 @@ Tusky is a beautiful Android client for [Mastodon](https://github.com/mastodon/m
 ## Features
 
 - Material Design
-- Most Mastodon APIs implemented
+- Most Mastodon APIs implemented 
 - Multi-Account support
 - Dark, light and black themes with the possibility to auto-switch based on the time of day
 - Drafts - compose posts and save them for later
